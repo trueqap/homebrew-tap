@@ -13,6 +13,7 @@ class K < Formula
 
   def install
     bin.install "k"
+    bin.install "k_pg_proxy"
   end
 
   test do
