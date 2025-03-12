@@ -6,7 +6,6 @@ class K < Formula
   head "https://github.com/reclaim-the-stack/k.git"
 
   depends_on "boz/repo/kail"
-  depends_on "int128/kubelogin/kubelogin"
   depends_on "kubernetes-cli"
   depends_on "kubeseal"
   depends_on "yq"
