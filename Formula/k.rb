@@ -2,8 +2,8 @@
 
 class K < Formula
   desc "Tool for managing the Reclaim the Stack platform"
-  homepage "https://github.com/reclaim-the-stack/k"
-  head "https://github.com/reclaim-the-stack/k.git"
+  homepage "https://github.com/trueqap/k"
+  head "https://github.com/trueqap/k.git"
 
   depends_on "boz/repo/kail"
   depends_on "kubernetes-cli"

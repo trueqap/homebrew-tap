@@ -3,7 +3,7 @@
 Install `k` via:
 
 ```
-brew install --HEAD reclaim-the-stack/tap/k
+brew install --HEAD trueqap/tap/k
 ```
 
 
